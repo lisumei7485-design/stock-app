@@ -1,5 +1,0 @@
-flask
-akshare
-pandas
-numpy
-openpyxl
